@@ -12,7 +12,7 @@ public class NumberGame {
 			
 			//Introduction
 			System.out.println("**Welcome TO Guessing Game**\n");
-			System.out.println("What is Your Name: \n");
+			System.out.println("Select a number beteen 1 to 100 : \n");
 			
 			Scanner scan = new Scanner(System.in);
 			
