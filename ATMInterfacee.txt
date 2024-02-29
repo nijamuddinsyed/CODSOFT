@@ -61,7 +61,6 @@ public class ATM
         account.withdraw(amount);
     }
 }
-package p1;
 public class BankAccount {
     private double balance;
     public BankAccount(double initialBalance) {
@@ -98,8 +97,6 @@ public class BankAccount {
 		return null;
 	}
 }
-package p2;
-import p1.*;
 public class Main {
 	
 	    public static void main(String[] args) {
